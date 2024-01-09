@@ -5,10 +5,10 @@ Particullary in my studies and even before that when rooting my old android phon
 ## 42 projects
 
 - [WebServer](https://github.com/EKayatz/webserv) HTTP web server in C++
-- [cub3d](https://github.com/lbaumann/cub3d) first-person like game with ray-casting
-- [Philosophers](https://github.com/lbaumann/philosophers) multithreading in C to solve the dining philosophers problem
+- [cub3d](https://github.com/leonyannick/cub3d) first-person like game with ray-casting
+- [Philosophers](https://github.com/leonyannick/philosophers) multithreading in C to solve the dining philosophers problem
 - [Minishell](https://github.com/leonyannick/minishell) writing our own shell based on bash
 - [fdf](https://github.com/leonyannick/fdf) display an isometric projection of height maps
 - [push-swap](https://github.com/leonyannick/push_swap) sorting numbers with two stacks and a limited set of instructions with the least instructions possible
-- [Libft](https://github.com/lbaumann/libft) recoding part of the C standard library
+- [Libft](https://github.com/leonyannick/libft) recoding part of the C standard library
 <!-- - [CPP Modules](https://github.com/lbaumann/cpp_42) C++ -->
