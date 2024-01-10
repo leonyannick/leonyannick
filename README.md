@@ -15,4 +15,4 @@ Particullary in my studies and even before that when rooting my old android phon
 
 ## other repositories
 
-- [urban-bouldering](https://github.com/leonyannick/urban-bouldering) final project for Harvards CS50. Small Website with Flask and a SQL database. Allows users to create an account and share location and information about climbs via a Leaflet api to opentopoomaps
+- [urban-bouldering](https://github.com/leonyannick/urban-bouldering) final project for Harvards CS50. Small Website with Flask and a SQL database. Allows users to create an account and share location and information about climbs via a mapbox api to opentopoomaps
