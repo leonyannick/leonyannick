@@ -4,6 +4,7 @@ Particullary in my studies and even before that when rooting my old android phon
 
 ## 42 projects
 
+- [C++ Modules](https://github.com/leonyannick/cpp_42) a collection of c++ exercices
 - [WebServer](https://github.com/EKayatz/webserv) HTTP web server in C++
 - [cub3d](https://github.com/leonyannick/cub3d) first-person like game with ray-casting
 - [Philosophers](https://github.com/leonyannick/philosophers) multithreading in C to solve the dining philosophers problem
