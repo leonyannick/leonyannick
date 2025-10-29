@@ -1,6 +1,6 @@
 # About me
 
-Trying to make computers do what I want them to. A journey that started in 2021 after completing Harvards [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science). Other steps on the way: completing my engineering degree with a coding thesis and 1.5 years of coding school, 42 Berlin. Currently doing an internship with CertHub as a Fullstack-Developer, working with React, TansStack, MongoDB and FastAPI.
+Trying to make computers do what I want them to. A journey that started in 2021 after completing Harvards [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science). Other steps on the way: completing my engineering degree with a coding thesis and 1.5 years of coding school, 42 Berlin. Currently doing an internship with CertHub as a Fullstack-Developer, working with React, TanStack, MongoDB and FastAPI.
 
 ## Some of my projects I did at 42
 - [transcendence](https://github.com/Linuswidmer/42_transcendence) containerized web application that let users play the classic pong game
